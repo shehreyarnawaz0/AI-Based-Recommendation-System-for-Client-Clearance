@@ -1,0 +1,121 @@
+BusinessType,Input,Budget,Scope,SuggestedPlatform,Features,TechStack
+Logistics,I run a logistics business and need help with digital solutions.,High,Small,Web App,"Tracking system, Route optimization",MERN Stack
+E-commerce,I run a e-commerce business and need help with digital solutions.,Medium,Large,Mobile App,"Product catalog, Cart system",Kotlin/Swift + MySQL
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Large,Web App,"Driver app, Tracking system",Django + React
+Restaurant,I run a restaurant business and need help with digital solutions.,Low,Medium,Web App,"Online ordering, Table booking",Laravel + Vue.js
+Finance,I run a finance business and need help with digital solutions.,Medium,Medium,Desktop App,"Reports, Expense tracking",C# .NET + SQL Server
+Restaurant,I run a restaurant business and need help with digital solutions.,Medium,Medium,Web App,"Payment gateway, Table booking",Laravel + Vue.js
+Healthcare,I run a healthcare business and need help with digital solutions.,Low,Large,Desktop App,"Appointment booking, Patient records",C# .NET + SQL Server
+E-commerce,I run a e-commerce business and need help with digital solutions.,Medium,Medium,Desktop App,"Product catalog, Cart system",JavaFX + MySQL
+Logistics,I run a logistics business and need help with digital solutions.,Low,Small,Web App,"Route optimization, Tracking system",Laravel + Vue.js
+Consultancy,I run a consultancy business and need help with digital solutions.,High,Small,Web App,"Document sharing, Scheduling",Laravel + Vue.js
+Real Estate,I run a real estate business and need help with digital solutions.,Medium,Medium,Web App,"Property listing, Booking system",Django + React
+Restaurant,I run a restaurant business and need help with digital solutions.,Medium,Small,Web App,"Table booking, Online ordering",MERN Stack
+Real Estate,I run a real estate business and need help with digital solutions.,High,Large,Mobile App,"Search filters, Booking system",React Native + Node.js
+Real Estate,I run a real estate business and need help with digital solutions.,Medium,Small,Web App,"Property listing, Search filters",MERN Stack
+Consultancy,I run a consultancy business and need help with digital solutions.,Medium,Large,Mobile App,"Document sharing, Scheduling",React Native + Node.js
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Small,Mobile App,"Route optimization, Tracking system",React Native + Node.js
+Restaurant,I run a restaurant business and need help with digital solutions.,Medium,Medium,Web App,"Online ordering, Table booking",Laravel + Vue.js
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Small,Web App,"Route optimization, Driver app",MERN Stack
+Salon,I run a salon business and need help with digital solutions.,Low,Medium,Desktop App,"Appointment booking, Promotions",JavaFX + MySQL
+Real Estate,I run a real estate business and need help with digital solutions.,High,Medium,Mobile App,"Property listing, Booking system",Kotlin/Swift + MySQL
+E-commerce,I run a e-commerce business and need help with digital solutions.,Medium,Medium,Web App,"Cart system, Payment integration",MERN Stack
+Education,I run a education business and need help with digital solutions.,Medium,Medium,Desktop App,"Progress tracking, Quiz system",Electron + Node.js
+Healthcare,I run a healthcare business and need help with digital solutions.,Medium,Small,Web App,"Prescription system, Patient records",MERN Stack
+Consultancy,I run a consultancy business and need help with digital solutions.,Medium,Small,Desktop App,"Chatbot support, Scheduling",Electron + Node.js
+E-commerce,I run a e-commerce business and need help with digital solutions.,High,Large,Web App,"Product catalog, Payment integration",Django + React
+Salon,I run a salon business and need help with digital solutions.,Low,Medium,Web App,"Customer management, Promotions",Laravel + Vue.js
+Healthcare,I run a healthcare business and need help with digital solutions.,Low,Small,Web App,"Prescription system, Appointment booking",Django + React
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Medium,Mobile App,"Tracking system, Route optimization",Flutter + Firebase
+Logistics,I run a logistics business and need help with digital solutions.,High,Medium,Web App,"Route optimization, Tracking system",MERN Stack
+Finance,I run a finance business and need help with digital solutions.,High,Small,Desktop App,"Expense tracking, Reports",Electron + Node.js
+Real Estate,I run a real estate business and need help with digital solutions.,Medium,Small,Mobile App,"Property listing, Booking system",Kotlin/Swift + MySQL
+Logistics,I run a logistics business and need help with digital solutions.,High,Medium,Desktop App,"Driver app, Tracking system",C# .NET + SQL Server
+Real Estate,I run a real estate business and need help with digital solutions.,Low,Medium,Mobile App,"Property listing, Search filters",React Native + Node.js
+Education,I run a education business and need help with digital solutions.,Low,Medium,Web App,"Progress tracking, Online classes",MERN Stack
+Education,I run a education business and need help with digital solutions.,Low,Medium,Desktop App,"Online classes, Progress tracking",C# .NET + SQL Server
+Real Estate,I run a real estate business and need help with digital solutions.,Medium,Small,Mobile App,"Search filters, Property listing",Kotlin/Swift + MySQL
+Logistics,I run a logistics business and need help with digital solutions.,High,Medium,Mobile App,"Route optimization, Driver app",Kotlin/Swift + MySQL
+Real Estate,I run a real estate business and need help with digital solutions.,Medium,Medium,Mobile App,"Booking system, Search filters",Flutter + Firebase
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Small,Web App,"Driver app, Tracking system",Django + React
+Retail Store,I run a retail store business and need help with digital solutions.,Medium,Large,Mobile App,"Loyalty program, Inventory management",Flutter + Firebase
+Finance,I run a finance business and need help with digital solutions.,High,Small,Desktop App,"Investment portfolio, Reports",C# .NET + SQL Server
+Finance,I run a finance business and need help with digital solutions.,Medium,Small,Web App,"Investment portfolio, Reports",MERN Stack
+Finance,I run a finance business and need help with digital solutions.,High,Small,Web App,"Expense tracking, Reports",Django + React
+Finance,I run a finance business and need help with digital solutions.,Low,Large,Desktop App,"Investment portfolio, Expense tracking",Electron + Node.js
+Consultancy,I run a consultancy business and need help with digital solutions.,High,Large,Desktop App,"Scheduling, Document sharing",C# .NET + SQL Server
+Consultancy,I run a consultancy business and need help with digital solutions.,Low,Small,Web App,"Chatbot support, Document sharing",Laravel + Vue.js
+Consultancy,I run a consultancy business and need help with digital solutions.,Medium,Medium,Web App,"Document sharing, Chatbot support",Laravel + Vue.js
+Consultancy,I run a consultancy business and need help with digital solutions.,Low,Medium,Mobile App,"Chatbot support, Document sharing",React Native + Node.js
+Salon,I run a salon business and need help with digital solutions.,Medium,Medium,Mobile App,"Promotions, Appointment booking",Flutter + Firebase
+Logistics,I run a logistics business and need help with digital solutions.,Low,Small,Desktop App,"Tracking system, Driver app",C# .NET + SQL Server
+E-commerce,I run a e-commerce business and need help with digital solutions.,High,Small,Mobile App,"Product catalog, Cart system",Kotlin/Swift + MySQL
+Education,I run a education business and need help with digital solutions.,High,Medium,Web App,"Progress tracking, Quiz system",MERN Stack
+Logistics,I run a logistics business and need help with digital solutions.,Low,Large,Mobile App,"Route optimization, Driver app",Flutter + Firebase
+Consultancy,I run a consultancy business and need help with digital solutions.,Low,Large,Mobile App,"Chatbot support, Document sharing",Flutter + Firebase
+Healthcare,I run a healthcare business and need help with digital solutions.,High,Small,Web App,"Patient records, Prescription system",MERN Stack
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Medium,Desktop App,"Tracking system, Route optimization",Electron + Node.js
+Consultancy,I run a consultancy business and need help with digital solutions.,High,Large,Web App,"Document sharing, Chatbot support",MERN Stack
+Salon,I run a salon business and need help with digital solutions.,Medium,Small,Desktop App,"Promotions, Customer management",C# .NET + SQL Server
+Consultancy,I run a consultancy business and need help with digital solutions.,Low,Large,Mobile App,"Document sharing, Chatbot support",React Native + Node.js
+Consultancy,I run a consultancy business and need help with digital solutions.,Medium,Large,Mobile App,"Chatbot support, Document sharing",Flutter + Firebase
+Logistics,I run a logistics business and need help with digital solutions.,Low,Medium,Web App,"Driver app, Route optimization",MERN Stack
+Real Estate,I run a real estate business and need help with digital solutions.,Low,Medium,Mobile App,"Property listing, Booking system",Kotlin/Swift + MySQL
+Consultancy,I run a consultancy business and need help with digital solutions.,Medium,Large,Web App,"Document sharing, Scheduling",Django + React
+Finance,I run a finance business and need help with digital solutions.,Low,Medium,Web App,"Expense tracking, Reports",MERN Stack
+Consultancy,I run a consultancy business and need help with digital solutions.,High,Medium,Desktop App,"Chatbot support, Document sharing",JavaFX + MySQL
+Healthcare,I run a healthcare business and need help with digital solutions.,Medium,Small,Desktop App,"Appointment booking, Prescription system",C# .NET + SQL Server
+Education,I run a education business and need help with digital solutions.,Low,Large,Mobile App,"Progress tracking, Online classes",React Native + Node.js
+E-commerce,I run a e-commerce business and need help with digital solutions.,High,Large,Web App,"Payment integration, Product catalog",Laravel + Vue.js
+Real Estate,I run a real estate business and need help with digital solutions.,High,Small,Web App,"Booking system, Property listing",Django + React
+Education,I run a education business and need help with digital solutions.,High,Small,Web App,"Progress tracking, Quiz system",Laravel + Vue.js
+E-commerce,I run a e-commerce business and need help with digital solutions.,Medium,Small,Web App,"Cart system, Payment integration",Laravel + Vue.js
+Restaurant,I run a restaurant business and need help with digital solutions.,Low,Large,Desktop App,"Online ordering, Table booking",JavaFX + MySQL
+Education,I run a education business and need help with digital solutions.,Low,Small,Mobile App,"Quiz system, Progress tracking",Flutter + Firebase
+Healthcare,I run a healthcare business and need help with digital solutions.,Medium,Small,Mobile App,"Appointment booking, Patient records",Kotlin/Swift + MySQL
+Consultancy,I run a consultancy business and need help with digital solutions.,High,Medium,Mobile App,"Document sharing, Chatbot support",React Native + Node.js
+Consultancy,I run a consultancy business and need help with digital solutions.,Medium,Small,Web App,"Scheduling, Chatbot support",Laravel + Vue.js
+Education,I run a education business and need help with digital solutions.,Medium,Medium,Mobile App,"Progress tracking, Online classes",React Native + Node.js
+Restaurant,I run a restaurant business and need help with digital solutions.,Medium,Medium,Desktop App,"Online ordering, Table booking",JavaFX + MySQL
+Logistics,I run a logistics business and need help with digital solutions.,High,Small,Desktop App,"Driver app, Tracking system",C# .NET + SQL Server
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Small,Mobile App,"Route optimization, Driver app",Kotlin/Swift + MySQL
+Salon,I run a salon business and need help with digital solutions.,High,Medium,Web App,"Customer management, Appointment booking",Django + React
+Logistics,I run a logistics business and need help with digital solutions.,Low,Medium,Web App,"Route optimization, Tracking system",Laravel + Vue.js
+Restaurant,I run a restaurant business and need help with digital solutions.,Low,Large,Web App,"Online ordering, Payment gateway",Laravel + Vue.js
+Retail Store,I run a retail store business and need help with digital solutions.,High,Large,Web App,"Loyalty program, Inventory management",Laravel + Vue.js
+Education,I run a education business and need help with digital solutions.,Low,Large,Web App,"Quiz system, Progress tracking",Django + React
+Healthcare,I run a healthcare business and need help with digital solutions.,High,Medium,Web App,"Patient records, Appointment booking",Laravel + Vue.js
+Finance,I run a finance business and need help with digital solutions.,High,Large,Web App,"Reports, Expense tracking",Laravel + Vue.js
+Education,I run a education business and need help with digital solutions.,High,Medium,Web App,"Progress tracking, Quiz system",Django + React
+Finance,I run a finance business and need help with digital solutions.,High,Large,Desktop App,"Expense tracking, Reports",JavaFX + MySQL
+Retail Store,I run a retail store business and need help with digital solutions.,High,Large,Desktop App,"Billing system, Inventory management",C# .NET + SQL Server
+Education,I run a education business and need help with digital solutions.,Low,Small,Mobile App,"Online classes, Quiz system",React Native + Node.js
+Healthcare,I run a healthcare business and need help with digital solutions.,Low,Medium,Web App,"Appointment booking, Prescription system",Django + React
+Restaurant,I run a restaurant business and need help with digital solutions.,High,Large,Mobile App,"Online ordering, Payment gateway",React Native + Node.js
+Real Estate,I run a real estate business and need help with digital solutions.,Low,Large,Mobile App,"Booking system, Search filters",React Native + Node.js
+Retail Store,I run a retail store business and need help with digital solutions.,Low,Medium,Mobile App,"Billing system, Inventory management",Kotlin/Swift + MySQL
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Large,Mobile App,"Route optimization, Driver app",Flutter + Firebase
+E-commerce,I run a e-commerce business and need help with digital solutions.,Medium,Small,Mobile App,"Product catalog, Cart system",React Native + Node.js
+Real Estate,I run a real estate business and need help with digital solutions.,Medium,Medium,Desktop App,"Booking system, Search filters",Electron + Node.js
+Salon,I run a salon business and need help with digital solutions.,Low,Small,Web App,"Appointment booking, Promotions",MERN Stack
+Salon,I run a salon business and need help with digital solutions.,Medium,Small,Web App,"Customer management, Promotions",Laravel + Vue.js
+Restaurant,I run a restaurant business and need help with digital solutions.,Low,Large,Mobile App,"Payment gateway, Table booking",Kotlin/Swift + MySQL
+Retail Store,I run a retail store business and need help with digital solutions.,Medium,Small,Desktop App,"Loyalty program, Inventory management",JavaFX + MySQL
+Retail Store,I run a retail store business and need help with digital solutions.,Low,Large,Mobile App,"Inventory management, Billing system",Flutter + Firebase
+Retail Store,I run a retail store business and need help with digital solutions.,High,Large,Mobile App,"Inventory management, Loyalty program",Flutter + Firebase
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Small,Desktop App,"Driver app, Tracking system",JavaFX + MySQL
+Retail Store,I run a retail store business and need help with digital solutions.,High,Large,Web App,"Billing system, Inventory management",Django + React
+Education,I run a education business and need help with digital solutions.,Medium,Small,Web App,"Online classes, Progress tracking",Django + React
+Finance,I run a finance business and need help with digital solutions.,High,Medium,Web App,"Reports, Expense tracking",Laravel + Vue.js
+Education,I run a education business and need help with digital solutions.,Low,Small,Mobile App,"Online classes, Progress tracking",React Native + Node.js
+Logistics,I run a logistics business and need help with digital solutions.,Medium,Small,Mobile App,"Driver app, Tracking system",React Native + Node.js
+Real Estate,I run a real estate business and need help with digital solutions.,High,Small,Mobile App,"Search filters, Booking system",Kotlin/Swift + MySQL
+Education,I run a education business and need help with digital solutions.,Low,Large,Web App,"Progress tracking, Online classes",MERN Stack
+Retail Store,I run a retail store business and need help with digital solutions.,Medium,Large,Desktop App,"Billing system, Inventory management",JavaFX + MySQL
+Education,I run a education business and need help with digital solutions.,Medium,Large,Mobile App,"Quiz system, Progress tracking",Kotlin/Swift + MySQL
+Consultancy,I run a consultancy business and need help with digital solutions.,Medium,Small,Desktop App,"Document sharing, Scheduling",JavaFX + MySQL
+Logistics,I run a logistics business and need help with digital solutions.,Low,Medium,Mobile App,"Tracking system, Driver app",Kotlin/Swift + MySQL
+E-commerce,I run a e-commerce business and need help with digital solutions.,High,Large,Web App,"Product catalog, Cart system",MERN Stack
+E-commerce,I run a e-commerce business and need help with digital solutions.,Low,Large,Desktop App,"Payment integration, Product catalog",JavaFX + MySQL
+Consultancy,I run a consultancy business and need help with digital solutions.,High,Large,Web App,"Scheduling, Document sharing",Django + React
+Real Estate,I run a real estate business and need help with digital solutions.,Low,Medium,Web App,"Booking system, Property listing",Django + React
